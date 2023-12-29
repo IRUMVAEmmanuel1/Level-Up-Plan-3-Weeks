@@ -89,11 +89,11 @@ gap: 1rem;
   font-size: 9px;
 }
 .green i{
-  color: green;
+  color: rgb(16, 150, 16);
 }
 .red i{
-  color: red;
+  color: rgb(207, 55, 55);
 }
 .yellow i{
-  color: yellow;
+  color: rgb(209, 209, 23);
 }
