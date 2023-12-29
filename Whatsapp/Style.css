@@ -1,5 +1,7 @@
 body{
   font-family: 'DM Sans', sans-serif;
-font-family: 'Nunito Sans', sans-serif;
-background-image: "./Images/macOS-Sonoma-4K-Wallpaper.jpg";
+  font-family: 'Nunito Sans', sans-serif;
+  background-image: url("./Images/macOS-Sonoma-4K-Wallpaper.jpg");
+  background-size: cover;
 }
+
