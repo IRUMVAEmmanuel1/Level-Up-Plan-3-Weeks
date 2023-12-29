@@ -112,3 +112,19 @@ gap: 1rem;
 .leftIconRight ul li i{
   color: grey;
 }
+
+
+.ChatIcons{
+  display: flex;
+  justify-content: space-between;
+  /* align-items:flex-start; */
+}
+
+.search{
+  display: flex;
+  justify-content: space-between;
+  gap: 0.7rem;
+  margin-right: 1rem;
+  background-color: #c4c4c4;
+  padding: 2px;
+}
