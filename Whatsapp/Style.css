@@ -66,11 +66,21 @@ gap: 1rem;
   background-color: #c4c4c4;
 }
 .leftSection{
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
   height: 480px;
   
 }
 
-.leftHeader p{
+.leftHeader ul li{
   color: red;
-  font-size: 20rem;
+  list-style-type: none;
+}
+
+.signal ul{
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.4rem;
 }
