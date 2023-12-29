@@ -13,9 +13,8 @@ body{
   font-weight: bold;
   background-color: #c4c4c4;
   border-bottom: 1000rem;
-  background-color: hsla(0, 100%, 50%, 0.5); 
+  background-color: rgba(255, 255, 255, 0.1);
 }
-
 .menuBar ul{
   gap: 0.7rem;
   font-size: 12px;
@@ -24,7 +23,7 @@ body{
 }
 .menuBar ul li {
   list-style-type: none;
-   gap: 1rem;
+gap: 1rem;
 }
 .menuBar ul li a{
   text-decoration: none;
@@ -38,12 +37,16 @@ body{
   align-items: center;
  
 }
-
+.menuBar ul li a i{
+  color: white;
+  font-size: 14px;
+}
 .leftMenu ul{
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
+
 .container{
   height: 200px;
   width: 60rem;
