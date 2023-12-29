@@ -3,10 +3,31 @@ body{
   font-family: 'Nunito Sans', sans-serif;
   background-image: url("./Images/macOS-Sonoma-4K-Wallpaper.jpg");
   background-size: cover;
+  margin: 0;
+  padding: 0;
 }
-
+.menuBar{
+  display: flex;
+  justify-content: space-between;
+  border-top: 0;
+  font-weight: bold;
+  background-color: #fdf3f3;
+  border-bottom: 1000rem;
+}
+.menuBar ul li {
+  list-style-type: none;
+}
+.menuBar ul li a{
+  text-decoration: none;
+}
+.rightMenu ul{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
 .container{
-  height: 480px;
+  height: 200px;
   width: 60rem;
   background-color: aliceblue;
   display: flex;
@@ -15,8 +36,5 @@ body{
   margin-left: 13rem;
   margin-top: 5rem;
   border-radius: 24px;
-  -webkit-border-radius: 24px;
-  -moz-border-radius: 24px;
-  -ms-border-radius: 24px;
-  -o-border-radius: 24px;
+
 }
