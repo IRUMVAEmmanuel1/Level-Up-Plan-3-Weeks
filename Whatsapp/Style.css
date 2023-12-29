@@ -83,4 +83,17 @@ gap: 1rem;
   justify-content: space-between;
   align-items: center;
   gap: 0.4rem;
+  
+}
+.signal ul li i{
+  font-size: 9px;
+}
+.green i{
+  color: green;
+}
+.red i{
+  color: red;
+}
+.yellow i{
+  color: yellow;
 }
