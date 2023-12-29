@@ -11,20 +11,38 @@ body{
   justify-content: space-between;
   border-top: 0;
   font-weight: bold;
-  background-color: #fdf3f3;
+  background-color: #c4c4c4;
   border-bottom: 1000rem;
+  background-color: hsla(0, 100%, 50%, 0.5); 
+}
+
+.menuBar ul{
+  gap: 0.7rem;
+  font-size: 12px;
+  color: rgb(255, 255, 255);
+  
 }
 .menuBar ul li {
   list-style-type: none;
+   gap: 1rem;
 }
 .menuBar ul li a{
   text-decoration: none;
+  
+  
+  
 }
 .rightMenu ul{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 1rem;
+ 
+}
+
+.leftMenu ul{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .container{
   height: 200px;
