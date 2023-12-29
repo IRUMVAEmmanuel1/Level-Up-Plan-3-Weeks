@@ -66,22 +66,24 @@ gap: 1rem;
   background-color: #c4c4c4;
 }
 .leftSection{
-  display: flex;
-  justify-content: space-between;
-  /* align-items: center; */
+  width: 1200px;
   height: 480px;
   
 }
-
+.leftHeader{
+  display: flex;
+  justify-content: space-between;
+  align-items:flex-start;
+}
 .leftHeader ul li{
   color: red;
   list-style-type: none;
 }
 
 .signal ul{
-  display: inline-flex;
+  display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items:flex-start;
   gap: 0.4rem;
   
 }
@@ -96,4 +98,18 @@ gap: 1rem;
 }
 .yellow i{
   color: rgb(209, 209, 23);
+}
+
+.leftIconRight ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap:0.9rem;
+  font-size: 19px;
+  margin-right: 1rem;
+ 
+}
+
+.leftIconRight ul li i{
+  color: grey;
 }
