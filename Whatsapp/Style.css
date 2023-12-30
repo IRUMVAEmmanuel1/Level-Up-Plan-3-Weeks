@@ -151,7 +151,12 @@ gap: 1rem;
 .me{
   border-radius: 50px 50px;
 }
-
+.lowerIcons{
+  margin-top: 5rem;
+}
+.lowerIcons ul li{
+gap: 0.9rem;
+}
 .search{
   display: flex;
   justify-content: space-between;
