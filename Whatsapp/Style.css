@@ -162,6 +162,10 @@ gap: 0.5rem;
 
 .meGreen{
   color: rgb(38, 207, 38);
+  position:absolute;
+}
+.profile{
+  display: absolute;
 }
 .search{
   display: flex;
