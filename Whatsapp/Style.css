@@ -152,19 +152,31 @@ gap: 1rem;
   border-radius: 50px 50px;
   
 }
+.lowerIcons, .meGreen{
+  position: absolute;
+  top: 80%;
+  left: 18%;
+  transform: translate(-50%, -50%);
+}
 .lowerIcons{
   margin-top: 3rem;
+  width: 150px;
+  height: 100px;
   
+  z-index: 2;
+}
+.question{
+  margin-top: 3rem;
 }
 .lowerIcons li {
 gap: 0.5rem;
 }
 .meGreen{
   color: rgb(38, 207, 38);
-  position:absolute;
 }
+
 .profile{
-  display: absolute;
+  display: relative;
 }
 .search{
   display: flex;
