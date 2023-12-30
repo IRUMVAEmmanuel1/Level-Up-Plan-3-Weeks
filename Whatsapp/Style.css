@@ -131,6 +131,7 @@ gap: 1rem;
 .leftIcons ul{
   list-style-type: none;
   padding: 0 10px;
+  text-align: center;
 }
 .search{
   display: flex;
