@@ -149,8 +149,11 @@ gap: 1rem;
 }
 
 .me{
-  border-radius: 50px 50px;
-  
+  border-radius: 16px;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
 }
 .lowerIcons, .meGreen{
   position: absolute;
@@ -163,10 +166,9 @@ gap: 1rem;
   z-index: 2;
 }
 .meGreen{
-  margin-top: 4rem;
-  margin-left: 0.7rem;
+  margin-top: 4.2rem;
+  margin-left: 1.1rem;
   z-index: 2;
-  
 }
 .question{
   margin-top: 3rem;
@@ -176,6 +178,10 @@ gap: 0.5rem;
 }
 .meGreen{
   color: rgb(38, 207, 38);
+}
+.meGreen ul li i{
+  font-size: 12px;
+  border-radius: 2px solid white;
 }
 
 .profile{
