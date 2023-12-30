@@ -68,6 +68,8 @@ gap: 1rem;
 .leftSection{
   width: 1200px;
   height: 480px;
+  margin: 0;
+  padding: 0;
   
 }
 .leftHeader{
@@ -85,6 +87,7 @@ gap: 1rem;
   justify-content: space-between;
   align-items:flex-start;
   gap: 0.4rem;
+  padding: 0 10px;
   
 }
 .signal ul li i{
@@ -127,6 +130,7 @@ gap: 1rem;
 
 .leftIcons ul{
   list-style-type: none;
+  padding: 0 10px;
 }
 .search{
   display: flex;
