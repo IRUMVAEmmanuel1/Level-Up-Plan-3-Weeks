@@ -160,10 +160,13 @@ gap: 1rem;
 }
 .lowerIcons{
   margin-top: 3rem;
-  width: 150px;
-  height: 100px;
-  
   z-index: 2;
+}
+.meGreen{
+  margin-top: 4rem;
+  margin-left: 0.7rem;
+  z-index: 2;
+  
 }
 .question{
   margin-top: 3rem;
