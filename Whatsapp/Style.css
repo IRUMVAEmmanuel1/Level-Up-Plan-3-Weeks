@@ -122,6 +122,13 @@ gap: 1rem;
 .leftIcons{
   color:#797676;
   font-weight: bold;
+  font-size: 15px;
+  text-align:left;
+  margin-left: 0rem;
+}
+
+.leftIcons ul{
+  list-style-type: none;
 }
 .search{
   display: flex;
