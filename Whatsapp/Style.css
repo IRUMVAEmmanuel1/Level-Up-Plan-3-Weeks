@@ -65,7 +65,7 @@ gap: 1rem;
   background-color: #c4c4c4;
 }
 .leftSection{
-  width: 1200px;
+  width: 1200px; //Finding Grid way of sizing 
   height: 480px;
   margin: 0;
   padding: 0;
