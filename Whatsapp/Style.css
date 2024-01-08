@@ -270,3 +270,12 @@ gap: 0.5rem;
 .activeIconRight {
   margin-right: 2rem;
 }
+.encrypt{
+  background-color: #fff6cb;
+  height: 100px;
+}
+
+.encMessage{
+  font-size: 14px;
+  font-weight: bold;
+}
