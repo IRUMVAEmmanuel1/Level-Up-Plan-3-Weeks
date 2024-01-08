@@ -236,7 +236,12 @@ gap: 0.5rem;
 .pChat{
   font-weight: bold;
   font-size: 13px;
+}
 
+.headerRight{
+  display: grid;
+  grid-template-columns: 25% 75%;
+  gap: 18rem;
 }
 
 
