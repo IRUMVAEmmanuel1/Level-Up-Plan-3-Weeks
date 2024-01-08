@@ -278,6 +278,11 @@ gap: 0.5rem;
   height: 55px;
   width: 32rem;
   margin-left: 2rem;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
 }
 
 .encMessage{
