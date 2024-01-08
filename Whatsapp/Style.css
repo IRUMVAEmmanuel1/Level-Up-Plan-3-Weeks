@@ -255,13 +255,13 @@ gap: 0.5rem;
   margin-top: 2px;
 }
 
-.activePersonIcon
+.activePersonIcon ul
 {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.activePersonIcon ul li i{
+.activePerson ul li i{
   list-style-type: none;
 }
 .personIcon{
