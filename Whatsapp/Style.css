@@ -239,9 +239,9 @@ gap: 0.5rem;
 }
 
 .headerRight{
-  display: grid;
-  grid-template-columns: 25% 75%;
-  gap: 13rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 
