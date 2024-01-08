@@ -236,13 +236,21 @@ gap: 0.5rem;
 .pChat{
   font-weight: bold;
   font-size: 13px;
+  display: flex;
+  gap: 0.3rem;
 }
 
 .headerRight{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 23rem;
 }
 
+#online{
+  color: green;
+  width: 12px;
+  margin-top: 20px;
+}
 
 
