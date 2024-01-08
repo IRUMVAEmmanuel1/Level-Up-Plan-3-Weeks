@@ -59,7 +59,7 @@ gap: 1rem;
   margin-top: 2rem;
   border-radius: 24px;
   overflow: hidden; 
-  disp
+  display: grid;
   
 }
 .rightSection{
