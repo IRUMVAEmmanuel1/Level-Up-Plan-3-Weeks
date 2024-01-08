@@ -255,4 +255,8 @@ gap: 0.5rem;
   margin-top: 2px;
 }
 
-
+.activePerson
+{
+  display: flex;
+  justify-content: space-between;
+}
