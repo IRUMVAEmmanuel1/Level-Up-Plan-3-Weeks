@@ -66,9 +66,7 @@ gap: 1rem;
 }
 .leftSection{
   width: 1200px; //Finding Grid way of sizing 
-  
-  margin: 0;
-  padding: 0; 
+
 }
 .leftHeader{
   display: flex;
