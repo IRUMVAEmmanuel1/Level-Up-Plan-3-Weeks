@@ -260,8 +260,10 @@ gap: 0.5rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  /* gap: 2rem; */
+  
 }
-.activePersonIcon ul li i{
+.activePersonIcon ul li {
   list-style-type: none;
 }
 
