@@ -271,11 +271,15 @@ gap: 0.5rem;
   margin-right: 2rem;
 }
 .encrypt{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
   background-color: #fff6cb;
-  height: 100px;
+  height: 55px;
+  width: 32rem;
 }
 
 .encMessage{
-  font-size: 14px;
+  font-size: 12px;
   font-weight: bold;
 }
