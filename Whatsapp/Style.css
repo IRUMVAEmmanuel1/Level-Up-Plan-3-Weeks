@@ -255,9 +255,15 @@ gap: 0.5rem;
   margin-top: 2px;
 }
 
-.activePerson
+.activePersonIcon
 {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+.activePersonIcon ul li i{
+  list-style-type: none;
+}
+.personIcon{
+  display: flex;
 }
