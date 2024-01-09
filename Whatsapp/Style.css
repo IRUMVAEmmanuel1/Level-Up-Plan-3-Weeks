@@ -43,7 +43,7 @@ body {
 	align-items: center;
 }
 .container {
-	height: 540px;
+	height: 590px;
 	width: 60rem;
 	background-color: aliceblue;
 	display: flex;
@@ -396,7 +396,19 @@ body {
 
 .buttonSearch ul{
   display: flex;
-  justify-content:space-around;
+  justify-content:first baseline;
   align-items: center;
+  gap: 2rem;
+  
 
+}
+.buttonSearch ul li{
+  list-style-type: none;
+ 
+}
+.typeMessage {
+  width: 24rem;
+  border-radius: 50px;
+  padding: 10px;
+  border:none;
 }
