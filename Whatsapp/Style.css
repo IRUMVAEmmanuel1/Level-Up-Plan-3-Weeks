@@ -365,7 +365,7 @@ body {
 	align-items: center;
 	background-color: #535353;
   
-	width: auto;
+	width: 14rem;
 	margin-left: .8rem;
 	margin-top: 1rem;
 	border-top-right-radius: 8px;
@@ -375,6 +375,6 @@ body {
 }
 
 .imageContainer img{
- width: 200px;
+ width: 150px;
 
 }
