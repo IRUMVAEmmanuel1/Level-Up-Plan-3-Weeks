@@ -337,3 +337,18 @@ body {
 	font-size: 12px;
 	margin-top: 3rem;
 }
+
+.senderChat1{
+  display: flex;
+	align-items: center;
+	background-color: #7ecc8b;
+  /* color: white; */
+	height: 35px;
+	width: 14rem;
+	margin-left: 18rem;
+	margin-top: 1rem;
+	border-top-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-top-left-radius: 8%;
+}
