@@ -368,13 +368,18 @@ body {
 	width: 14rem;
 	margin-left: .8rem;
 	margin-top: 1rem;
-	border-top-right-radius: 8px;
-	border-bottom-left-radius: 8px;
-	border-bottom-right-radius: 8px;
-	border-top-left-radius: 8%;
+	border-radius: 8px;
+	
 }
 
 .imageContainer img{
  width: 150px;
+ align-items: center;
 
+}
+.senderTime2 {
+	font-size: 12px;
+	margin-top: 7rem;
+
+  text-indent: 0rem;
 }
