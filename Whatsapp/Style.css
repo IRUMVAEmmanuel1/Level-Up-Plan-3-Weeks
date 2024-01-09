@@ -359,3 +359,22 @@ body {
 #senderBlue{
   color: rgb(77, 77, 199);
 }
+
+.imageContainer{
+  display: flex;
+	align-items: center;
+	background-color: #535353;
+  
+	width: auto;
+	margin-left: .8rem;
+	margin-top: 1rem;
+	border-top-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-top-left-radius: 8%;
+}
+
+.imageContainer img{
+ width: 200px;
+
+}
