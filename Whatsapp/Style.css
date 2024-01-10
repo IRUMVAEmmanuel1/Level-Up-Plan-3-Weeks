@@ -233,6 +233,9 @@ body {
 	gap: 5rem;
 	margin-left: px;
 }
+.storyNameSpace{
+	
+}
 .pName {
 	font-weight: bold;
 }
@@ -391,7 +394,7 @@ body {
   border-radius: 50px;
   margin-left: 1rem;
   margin-top: 1rem;
-  color: rgb(250, 249, 249) ;
+  color: rgb(219, 219, 219) ;
 }
 
 .buttonSearch ul{
