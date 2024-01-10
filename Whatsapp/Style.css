@@ -190,6 +190,7 @@ body {
 }
 .chatStory1 {
 	display: flex;
+	margin-right: .6rem;
 }
 .chatStory2 {
 	display: flex;
@@ -240,8 +241,14 @@ body {
 
 .pTime,
 .pIcon {
+	/* margin-left: 3rem; */
 	font-size: 12px;
 	color: gray;
+}
+
+.pIcon i{
+	margin-left: 2rem;
+	
 }
 .pChat {
 	font-weight: bold;
