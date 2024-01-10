@@ -225,10 +225,13 @@ body {
 	gap: 5rem;
 	/* margin-left: px; */
 }
-.storyNameSpace{
+.storyNameSpace p{
 	display: grid;
-	text-indent: 1px;
+	text-justify:distribute-all-lines;
+	text-indent: 0px;
 	background-color: red;
+
+	
 	
 }
 .pName {
