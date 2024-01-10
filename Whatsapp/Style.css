@@ -226,8 +226,10 @@ body {
 	/* margin-left: px; */
 }
 .storyNameSpace{
+	display: grid;
+	text-indent: 1px;
 	background-color: red;
-	margin-top: .9;
+	
 }
 .pName {
 	font-weight: bold;
