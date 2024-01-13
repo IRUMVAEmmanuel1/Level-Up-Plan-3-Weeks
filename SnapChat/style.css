@@ -1,0 +1,11 @@
+body {
+    font-family: 'Arial', sans-serif; /* Use a web-safe font */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Add responsive styles for various screen sizes */
+@media only screen and (max-width: 600px) {
+    /* Add specific styles for smaller screens */
+}
