@@ -8,4 +8,8 @@ body {
 /* Add responsive styles for various screen sizes */
 @media only screen and (max-width: 600px) {
     /* Add specific styles for smaller screens */
+  .header{
+    height: 3rem;
+    background-color: darkgoldenrod;
+  }
 }
