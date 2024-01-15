@@ -29,7 +29,19 @@ body {
 .login{
   background-color: black;
   color: white;
-  
+  text-align: center;
+  border-radius: 16px;
+  width: 15rem;
+  padding: 5px;
+  -webkit-border-radius: 48px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+  margin-left: 5rem;
+}
+.login p{
+  font-size: 20px;
+
 }
    
   }
