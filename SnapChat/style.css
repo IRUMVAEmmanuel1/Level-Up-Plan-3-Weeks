@@ -17,7 +17,10 @@ body {
     padding: 24px;
     margin-left: 17rem;
 }
-
+.welcome{
+  font-size: 2rem;
+  font-weight: bold;
+}
    
   }
 
