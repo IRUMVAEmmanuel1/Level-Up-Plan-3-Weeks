@@ -17,6 +17,9 @@ body {
     padding: 24px;
     margin-left: 17rem;
 }
+.welcomeMessage{
+  text-align: center;
+}
 .welcome{
   font-size: 2rem;
   font-weight: bold;
