@@ -15,11 +15,11 @@ body {
 
 
   }
-  .header span{
-   /* margin-left: 16rem; */
-   /* padding: 5px; */
-   height: 3rem;
-   background-color: black;
-   color: #FFFC00;
+  .header img{
+    width: 6rem;
+    padding: 20px;
+}
+
+   
   }
 }
