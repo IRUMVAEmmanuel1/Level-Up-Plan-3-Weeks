@@ -11,11 +11,14 @@ body {
   .header{
     height: 9rem;
     background-color: #FFFC00;
+    
 
 
   }
-  .header img{
+  .header span{
    margin-left: 16rem;
-   padding: 12px;
+   padding: 5px;
+   background-color: black;
+   color: #FFFC00;
   }
 }
