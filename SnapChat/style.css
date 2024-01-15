@@ -12,6 +12,10 @@ body {
     height: 9rem;
     background-color: #FFFC00;
 
-    
+
+  }
+  .header img{
+   margin-left: 16rem;
+   padding: 12px;
   }
 }
