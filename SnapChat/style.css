@@ -19,10 +19,12 @@ body {
 }
 .welcomeMessage{
   text-align: center;
+   margin-top: 2.6rem;
 }
 .welcome{
   font-size: 2rem;
   font-weight: bold;
+ 
 }
    
   }
