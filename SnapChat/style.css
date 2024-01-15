@@ -16,8 +16,9 @@ body {
 
   }
   .header span{
-   margin-left: 16rem;
-   padding: 5px;
+   /* margin-left: 16rem; */
+   /* padding: 5px; */
+   height: 3rem;
    background-color: black;
    color: #FFFC00;
   }
