@@ -70,6 +70,7 @@ form .txt_field{
   padding: 0 5px;
   height: 40px;
   font-size: 16px;
+  border: none;
 }
    
   }
