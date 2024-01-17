@@ -63,10 +63,15 @@ form .txt_field{
   position: relative;
   border-bottom: 2px solid #adadad;
   margin: 30px 0;
+  width: 70%;
+  margin-left: 3rem;
 
 }
+label{
+  font-size: 20rem;
+}
 .txt_field input{
-  width: 100%;
+  width: 10%;
   padding: 0 5px;
   height: 40px;
   font-size: 16px;
