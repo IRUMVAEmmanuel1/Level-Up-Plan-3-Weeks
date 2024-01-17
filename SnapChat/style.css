@@ -91,6 +91,9 @@ form .txt_field{
 .txt_field span::before{
   content: '';
   position: absolute;
+  top: 40px;
+  left: 0;
+  width: 100%;
 
 }
    
