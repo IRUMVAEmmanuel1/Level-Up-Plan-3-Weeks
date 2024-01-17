@@ -77,6 +77,8 @@ form .txt_field{
 }
 .txt_field label{
   position: absolute;
+  top: 50%;
+  left: 5px;
 
 }
    
