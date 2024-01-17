@@ -65,10 +65,6 @@ form .txt_field{
   margin: 30px 0;
   width: 70%;
   margin-left: 3rem;
-
-}
-label{
-  font-size: 20rem;
 }
 .txt_field input{
   width: 10%;
