@@ -86,6 +86,7 @@ form .txt_field{
   -ms-transform: translateY(-50%);
   -o-transform: translateY(-50%);
   font-size: 16px;
+  pointer-events: none;
 }
    
   }
