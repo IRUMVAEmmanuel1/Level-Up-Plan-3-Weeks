@@ -1,1 +1,1 @@
-## Andela Technical Leardership Program
+## Andela Technical Leadership Program.
