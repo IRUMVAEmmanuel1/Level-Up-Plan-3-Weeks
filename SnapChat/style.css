@@ -113,5 +113,11 @@ form .txt_field{
   color: #2691d9;
   font-weight: bold;
 }
+
+.login{
+  background-color: #adadad;
+  padding: 22px;
+  
+}
   }
 
