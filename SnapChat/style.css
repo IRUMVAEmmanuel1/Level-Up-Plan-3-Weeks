@@ -119,14 +119,18 @@ form .txt_field{
   color: white;
   text-align: center;
   width: 19rem;
-  padding: 15px;
+  padding: 1px;
+  border-radius: 50px;
   margin-left: 3.2rem;
   margin-top: 2.4rem;
-  
 }
-.loginB button{
- background-color: none;
+.loginB p{
+ /* background-color: none; */
  font-weight: bold;
+ font-size: 30px;
+}
+.signup{
+  text-align: center;
 }
   }
 
