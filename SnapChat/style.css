@@ -114,10 +114,19 @@ form .txt_field{
   font-weight: bold;
 }
 
-.login{
+.loginB{
   background-color: #adadad;
-  padding: 22px;
+  color: white;
+  text-align: center;
+  width: 19rem;
+  padding: 15px;
+  margin-left: 3.2rem;
+  margin-top: 2.4rem;
   
+}
+.loginB button{
+ background-color: none;
+ font-weight: bold;
 }
   }
 
