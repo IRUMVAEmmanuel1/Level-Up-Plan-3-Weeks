@@ -3,7 +3,7 @@ function checkLoginColor(){
   var password = document.getElementById('password').value;
   var login_btn = document.getElementById('loginP');
 
-  if( username !== '' && password !== ''){
+  if (username !== '' && password !== ''){
     login_btn.classList.add('yellow');
       } else {
         login_btn.classList.remove('yellow');
