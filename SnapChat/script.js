@@ -9,7 +9,6 @@ function checkLoginColor(){
         login_btn.classList.remove('yellow');
       }
   }
-
   function login_btn(){
     alert("Verifying credentials");
   }
