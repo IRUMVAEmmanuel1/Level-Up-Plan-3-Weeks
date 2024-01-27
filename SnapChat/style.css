@@ -127,10 +127,6 @@ form .txt_field{
   border-radius: 50px;
   margin-left: 5rem;
   margin-top: 2.4rem;
-  -webkit-border-radius: 50px;
-  -moz-border-radius: 50px;
-  -ms-border-radius: 50px;
-  -o-border-radius: 50px;
 }
 .signup{
   text-align: center;
