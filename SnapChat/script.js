@@ -11,5 +11,5 @@ function checkLoginColor(){
   }
 
   function login_btn(){
-    alert("Login button clicked");
+    alert("Verifying credentials");
   }

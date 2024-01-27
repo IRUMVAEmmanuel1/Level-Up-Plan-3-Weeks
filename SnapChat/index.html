@@ -27,12 +27,12 @@
   </div>
   <form id="login-form" method="post">
     <div class="txt_field">
-      <input type="text" id="username" required>
+      <input type="text" id="username" required oninput="checkLoginButtonColor()">
       <span></span>
       <label for="username" >USERNAME OR EMAIL</label>
     </div>
     <div class="txt_field">
-      <input type="password" id="password" required>
+      <input type="password" id="password" required oninput="checkLoginButtonColor()">
       <span></span>
       <label for="password" id="password">PASSWORD</label>
     </div>
