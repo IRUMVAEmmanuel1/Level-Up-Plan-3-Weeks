@@ -10,6 +10,6 @@ function checkLoginColor(){
       }
   }
 
-  function login(){
+  function login_btn(){
     alert("Login button clicked");
   }
