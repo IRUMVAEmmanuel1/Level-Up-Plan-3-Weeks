@@ -9,3 +9,7 @@ function checkLoginColor(){
         login_btn.classList.remove('yellow');
       }
   }
+
+  function login{
+    alert("Login button clicked");
+  }
