@@ -114,24 +114,34 @@ form .txt_field{
   font-weight: bold;
 }
 
-.loginB{
+
+#loginP{
+  /*background-color: none;
+  */font-weight: bold;
+  font-size: 21px;
   background-color: #adadad;
   color: white;
   text-align: center;
-  width: 19rem;
-  padding: 1px;
+  width: 13rem;
+  padding: 25px;
   border-radius: 50px;
-  margin-left: 3.2rem;
+  margin-left: 5rem;
   margin-top: 2.4rem;
-}
-.loginB p{
- /* background-color: none; */
- font-weight: bold;
- font-size: 22px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
 }
 .signup{
   text-align: center;
   margin-top: 3rem;
+}
+
+#loginP.yellow {
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+  /* padding: 30px; */
 }
   }
 
