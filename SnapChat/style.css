@@ -32,12 +32,7 @@ body {
 		border-radius: 16px;
 		width: 19rem;
 		padding: 5px;
-		-webkit-border-radius: 48px;
-		-moz-border-radius: 16px;
-		-ms-border-radius: 16px;
-		-o-border-radius: 16px;
-		margin-left: 3.2rem;
-		margin-top: 2.4rem;
+
 	}
 	.login p {
 		font-size: 20px;
