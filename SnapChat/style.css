@@ -32,11 +32,14 @@ body {
 		border-radius: 16px;
 		width: 19rem;
 		padding: 5px;
+		margin-left: 4rem;
+		
 	}
 	.login p {
 		font-size: 20px;
 		color: #fffc00;
 		font-weight: bold;
+		
 	}
 	.trouble {
 		font-size: 18px;
