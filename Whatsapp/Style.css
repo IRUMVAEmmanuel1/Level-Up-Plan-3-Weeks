@@ -44,7 +44,7 @@ body {
 }
 .container {
 	height: 520px;
-	width: 60rem;
+	width: 62rem;
 	background-color: aliceblue;
 	display: flex;
 	align-items: center;
@@ -155,7 +155,7 @@ body {
 	z-index: 2;
 }
 .question {
-	margin-top: 2.3rem;
+	margin-top: 2rem;
 }
 .lowerIcons li {
 	gap: 0.5rem;
