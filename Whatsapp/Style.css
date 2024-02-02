@@ -251,14 +251,18 @@ body {
 
 }
 .pIcon1{
-	background-color: rgb(87, 161, 87);
+	background-color: rgb(9, 172, 9);
 	width: 14px;
 	height: 14px;
 	color: white;
+	align-items: center;
 	justify-content: center;
 	font-size: 8px;
-	border-radius: 50px;
+	border-radius: 50px ;
 	margin-left: 1.3rem;
+	padding: 2px 2px;
+	font-weight: bold;
+	
 }
 
 .pChat {
