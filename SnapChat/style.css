@@ -33,13 +33,12 @@ body {
 		width: 19rem;
 		padding: 5px;
 		margin-left: 4rem;
-		
+		margin-top: 30px;
 	}
 	.login p {
-		font-size: 20px;
+		font-size: 23px;
 		color: #fffc00;
 		font-weight: bold;
-		
 	}
 	.trouble {
 		font-size: 18px;
