@@ -4,7 +4,23 @@ body {
 	padding: 0;
 	box-sizing: border-box;
 }
+/* Styles for Desktop View Only */
+@media only screen and (min-width: 601px) {
+  .container {
+    margin: 50px auto;
+    padding: 20px;
+		align-items: center;
+		justify-content: center;
+  }
 
+  h1 {
+    font-size: 28px;
+  }
+
+  input, button {
+    width: auto;
+  }
+}
 /* Add responsive styles for various screen sizes */
 @media only screen and (max-width: 600px) {
 	/* Add specific styles for smaller screens */
@@ -86,13 +102,13 @@ body {
 		left: 0;
 		width: 0%;
 		height: 2px;
-		background-color: #2691d9;
+		background-color: #adadad;
 		transition: 0.5s;
 	}
 	.txt_field input:focus ~ label,
 	.txt_field input:valid ~ label {
 		top: -5px;
-		color: #2691d9;
+		color: #adadad;
 	}
 	.txt_field input:focus ~ span::before,
 	.txt_field input:valid ~ span::before {
