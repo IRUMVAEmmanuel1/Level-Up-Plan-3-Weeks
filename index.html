@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>SnapChat</title>
+		<link
+			rel="icon"
+			type="image/ico"
+			sizes="46x46"
+			href="../SnapChat/assets/standard_snap-ghost-yellow.ico" />
+		<link rel="stylesheet" href="./SnapChat/style.css" />
+		<script src="./SnapChat/script.js"></script>
+	</head>
+	<body>
+		<p class="deskp">Please Use Mobile View for SnapChat App | Better iPhone 14 Pro Max</p>
+		<div class="container">
+			
+			<div class="header">
+				<img src="./SnapChat/assets/snapchat (1).png" alt="" />
+			</div>
+			<div class="welcomeMessage">
+				<span class="welcome">Welcome Back!</span>
+			</div>
+			<div class="login">
+				<p>Log In via Google</p>
+			</div>
+			<div class="trouble">
+				<span>Trouble Logging In?</span>
+			</div>
+			<div class="or">
+				<span>OR</span>
+			</div>
+			<form id="login-form" method="post">
+				<div class="txt_field">
+					<input
+						type="text"
+						id="username"
+						oninput="checkLoginColor()"
+						required />
+					<span></span>
+					<label for="username">USERNAME OR EMAIL</label>
+				</div>
+				<div class="txt_field">
+					<input
+						type="password"
+						id="password"
+						oninput="checkLoginColor()"
+						required />
+					<span></span>
+					<label for="password">PASSWORD</label>
+				</div>
+				<div class="pass">Forgot Password?</div>
+				<div class="loginButton">
+					<p id="loginP" onclick="login_btn()">Login In</p>
+					<div class="signup">
+						<p id="signupW"><b>Sign Up</b> if you don't have an account</p>
+					</div>
+				</div>
+			</form>
+		</div>
+	</body>
+</html>
