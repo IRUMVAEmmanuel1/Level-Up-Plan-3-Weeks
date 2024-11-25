@@ -1,2 +1,2 @@
 ### Andela Technical Leadership Program.
-Level-Up Plan for 3 Week
+Level-Up Plan for 3 Weeks
